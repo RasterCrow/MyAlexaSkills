@@ -1,4 +1,5 @@
-# MyAlexaSkills
+![logoAlexa](https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/support/articles/headphones/qc35ii/Amazon_Alexa_Stacked_RGB_Dark-Color.png/_jcr_content/renditions/cq5dam.web.1280.1280.png)
+# My Alexa Skills
 
 ## Barzellette Chuck
 
