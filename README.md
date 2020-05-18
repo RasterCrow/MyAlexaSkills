@@ -20,3 +20,8 @@ Also available in english on the Google Assistant : [Link](https://assistant.goo
 
 - Link Amazon : [Link](https://www.amazon.it/RasterCrow-Lesperto-di-film/dp/B07N1KSS9N/)
 - Link Github : [Link](https://github.com/RasterCrow/alexa-movieExpert)
+
+## Situazione italiana del coronavirus
+
+- Link Github : [Link](https://github.com/RasterCrow/alexa-covid19)
+
